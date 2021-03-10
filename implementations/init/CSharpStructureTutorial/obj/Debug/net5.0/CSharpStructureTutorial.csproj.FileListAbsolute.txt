@@ -1,0 +1,16 @@
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.csprojAssemblyReference.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.AssemblyInfoInputs.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.AssemblyInfo.cs
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial.deps.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial.runtimeconfig.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial.runtimeconfig.dev.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/ref/CSharpStructureTutorial.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/bin/Debug/net5.0/CSharpStructureTutorial.pdb
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/ref/CSharpStructureTutorial.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.pdb
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/Debug/net5.0/CSharpStructureTutorial.genruntimeconfig.cache

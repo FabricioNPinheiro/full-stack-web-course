@@ -1,0 +1,16 @@
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.deps.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.dev.json
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/ref/CSharpFundamentals.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.pdb
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csprojAssemblyReference.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfo.cs
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
+/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache
