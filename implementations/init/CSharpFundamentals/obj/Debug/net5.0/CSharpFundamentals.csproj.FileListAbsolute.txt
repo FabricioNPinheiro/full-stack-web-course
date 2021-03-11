@@ -14,3 +14,19 @@
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/ref/CSharpFundamentals.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache

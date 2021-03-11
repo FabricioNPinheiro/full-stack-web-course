@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/Convert.csproj",
+      "projectUniqueName": "/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/Convert.csproj",
       "projectName": "Convert",
-      "projectPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/Convert.csproj",
+      "projectPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/Convert.csproj",
       "packagesPath": "/home/fabricionogueira/.nuget/packages/",
-      "outputPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/obj/",
+      "outputPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fabricionogueira/.nuget/NuGet/NuGet.Config"

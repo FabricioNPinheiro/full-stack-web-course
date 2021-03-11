@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kg1G4eknxu0Oim9N1Crowvpo04+vXHOKV2DA2ppeerSFMiN82v7xn0Eae/XMYXBQ4HGk18/hxZqr0h2qCcAWLg==",
+  "dgSpecHash": "qXkT+2RXpbmhQqKXWC0i5qKmxKG81KnGwI8IO5uCKiHrwnHP0jE5NKyNaiL/AuhgaRess35zhjXgbvoDvMu3GQ==",
   "success": true,
-  "projectFilePath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
+  "projectFilePath": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

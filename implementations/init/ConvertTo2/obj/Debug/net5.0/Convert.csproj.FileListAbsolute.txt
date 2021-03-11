@@ -19,3 +19,19 @@
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/obj/Debug/net5.0/ref/Convert.dll
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/obj/Debug/net5.0/Convert.pdb
 /home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/obj/Debug/net5.0/Convert.genruntimeconfig.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/ref/Convert.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/bin/Debug/net5.0/Convert.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/ref/Convert.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/obj/Debug/net5.0/Convert.genruntimeconfig.cache

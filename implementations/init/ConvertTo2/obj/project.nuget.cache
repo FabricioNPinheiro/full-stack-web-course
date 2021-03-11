@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hd8WHwMnXnnCNqm3g9jH3ckcrllRL3TAsFBqZR57tWkUP4Oo1ntm4aPK4LERHP3slxb8DhPaJsTOTzBEzRV2Jg==",
+  "dgSpecHash": "Yfa/XG78tghUKj9gTpibm7bY059KPaPIF9azML/3xrmJtm90a1HTkgnIYAute8YvpNzMkA1zrpVPXZaun/+i3Q==",
   "success": true,
-  "projectFilePath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/ConvertTo2/Convert.csproj",
+  "projectFilePath": "/home/fabricionogueira/full-stack-web-course/implementations/init/ConvertTo2/Convert.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

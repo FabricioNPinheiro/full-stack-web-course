@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj": {}
+    "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj": {}
   },
   "projects": {
-    "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj": {
+    "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
+        "projectUniqueName": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
         "projectName": "CSharpStructureTutorial",
-        "projectPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
+        "projectPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/CSharpStructureTutorial.csproj",
         "packagesPath": "/home/fabricionogueira/.nuget/packages/",
-        "outputPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpStructureTutorial/obj/",
+        "outputPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpStructureTutorial/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fabricionogueira/.nuget/NuGet/NuGet.Config"

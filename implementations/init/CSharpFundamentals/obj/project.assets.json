@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/CSharpFundamentals.csproj",
+      "projectUniqueName": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/CSharpFundamentals.csproj",
       "projectName": "CSharpFundamentals",
-      "projectPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/CSharpFundamentals.csproj",
+      "projectPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/CSharpFundamentals.csproj",
       "packagesPath": "/home/fabricionogueira/.nuget/packages/",
-      "outputPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/CSharpFundamentals/obj/",
+      "outputPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpFundamentals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fabricionogueira/.nuget/NuGet/NuGet.Config"
