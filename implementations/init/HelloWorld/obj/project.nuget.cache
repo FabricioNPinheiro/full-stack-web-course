@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rTf/5OW2Ru5MELKpzD+9eAoHsBp5M8GjepwSzb2zuRrA+RFh7Tz8q0CYGsnQvUP7Pyl2Xz0NIbAUE4D49Xvprg==",
+  "dgSpecHash": "Ec5OopyPoibxfE8ndSuSfxpR+OlFntbSHj4ItIInMp6iyCElXUrwCO9kXeKi+sYBadPsNE58u73gkg8/3bjebw==",
   "success": true,
-  "projectFilePath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

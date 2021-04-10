@@ -1,0 +1,16 @@
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/ref/Iterations.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/bin/Debug/net5.0/Iterations.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/ref/Iterations.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/Iterations/obj/Debug/net5.0/Iterations.genruntimeconfig.cache

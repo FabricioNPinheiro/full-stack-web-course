@@ -6,20 +6,17 @@ namespace CSharpStructureTutorial
         public string empNumber;
         public string empName;
         public string position;
-
         public Employee(string empNumber, string empName, string position) {
-            this.empNumber = "0";
-            this.empName = "Zezo";
-            this.position = "two";
+            this.empNumber = empNumber;
+            this.empName = empName;
+            this.position = position;
         }
-
 /*
         public Employee(string empNumber, string empName) {
             this.empNumber = empNumber;
             this.empName = empName;
         }
 */
-
     }
     class Program { 
         static void Main(string[] args) {

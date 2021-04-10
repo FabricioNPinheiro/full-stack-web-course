@@ -20,7 +20,12 @@ namespace CSharpFundamentals {
             Console.WriteLine(flags[2]);
 
             var names = new string[3] {"Bet", "Tom", "Mia"};
-            
+            OU
+            var names = new string[3];
+            names[0] = "Bet";
+            names[1] = "Tom";
+            names[2] = "Mia;
+
             Console.WriteLine(names[0]);
             Console.WriteLine(names[1]);
             Console.WriteLine(names[2]);

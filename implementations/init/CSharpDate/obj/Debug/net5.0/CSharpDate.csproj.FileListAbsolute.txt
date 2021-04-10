@@ -1,0 +1,16 @@
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/ref/CSharpDate.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/bin/Debug/net5.0/CSharpDate.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/ref/CSharpDate.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/CSharpDate/obj/Debug/net5.0/CSharpDate.genruntimeconfig.cache

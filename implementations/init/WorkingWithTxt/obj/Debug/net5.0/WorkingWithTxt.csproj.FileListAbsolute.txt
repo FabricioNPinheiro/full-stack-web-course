@@ -1,0 +1,16 @@
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/ref/WorkingWithTxt.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/bin/Debug/net5.0/WorkingWithTxt.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/ref/WorkingWithTxt.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/WorkingWithTxt/obj/Debug/net5.0/WorkingWithTxt.genruntimeconfig.cache

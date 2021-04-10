@@ -1,0 +1,16 @@
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples.deps.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples.runtimeconfig.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples.runtimeconfig.dev.json
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/ref/examples.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/bin/Debug/net5.0/examples.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.csprojAssemblyReference.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.AssemblyInfoInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.AssemblyInfo.cs
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.csproj.CoreCompileInputs.cache
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/ref/examples.dll
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.pdb
+/home/fabricionogueira/full-stack-web-course/implementations/init/examples/obj/Debug/net5.0/examples.genruntimeconfig.cache

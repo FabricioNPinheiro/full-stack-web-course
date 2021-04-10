@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/HelloWorld.csproj": {}
+    "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/HelloWorld.csproj": {
+    "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/fabricionogueira/.nuget/packages/",
-        "outputPath": "/home/fabricionogueira/Curso Web Full-Stack/Projects/init/HelloWorld/obj/",
+        "outputPath": "/home/fabricionogueira/full-stack-web-course/implementations/init/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fabricionogueira/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
